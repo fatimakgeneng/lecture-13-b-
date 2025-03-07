@@ -1,4 +1,4 @@
-Default poem_crew ran using lightest DeepSeek Model installed locally using Ollama
+# Default poem_crew ran using lightest DeepSeek Model installed locally using Ollama
 
 ## Dowload Ollama from here:
 https://ollama.com/download
