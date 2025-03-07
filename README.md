@@ -11,9 +11,9 @@ You can check the exact BASE_URL via command
 `ollama ls`
 
 # Miscellaneous
-create a crewai project using
+1. Create a crewai project using:
 `crewai create flow project name`
-Note: for this command to work crewai should be installed globally in in your PC using command.
+2. Note: for this command to work crewai should be installed globally in in your PC using command:
 `pip install crewai` i.e. terminal should be run as administrator.
-You can check if crewai is installed this way using `crewai --version`
+3. You can check if crewai is installed this way using `crewai --version`
 
